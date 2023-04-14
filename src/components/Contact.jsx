@@ -8,7 +8,7 @@ const Contact = () => {
                 <form>
                     <div>
                         <label >Name</label>
-                        <input type="text" required placeholder='abc' />
+                        <input type="text" required placeholder='bbc' />
                     </div>
                     <div>
                         <label >Email</label>
